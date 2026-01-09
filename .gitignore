@@ -208,3 +208,5 @@ __marimo__/
 
 #Users 
 Users/
+
+*.parquet
